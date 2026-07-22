@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0002-add-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rishurwt/DSA-using-Cpp/tree/master/3499-maximize-active-section-with-trade-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
