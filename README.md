@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishurwt/DSA-using-Cpp/tree/master/3536-maximum-product-of-two-digits) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0013-roman-to-integer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rishurwt/DSA-using-Cpp/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1732-find-the-highest-altitude) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
