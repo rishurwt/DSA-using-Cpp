@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rishurwt/DSA-using-Cpp/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
