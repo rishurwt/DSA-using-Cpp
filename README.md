@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishurwt/DSA-using-Cpp/tree/master/3536-maximum-product-of-two-digits) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
