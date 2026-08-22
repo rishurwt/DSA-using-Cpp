@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
