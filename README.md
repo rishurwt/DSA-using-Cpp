@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0050-powx-n) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
