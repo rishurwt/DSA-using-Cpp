@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0058-length-of-last-word) |
+| [0844-backspace-string-compare](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rishurwt/DSA-using-Cpp/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0059-spiral-matrix-ii) |
+| [0844-backspace-string-compare](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
