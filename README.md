@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0088-merge-sorted-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -73,14 +76,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
