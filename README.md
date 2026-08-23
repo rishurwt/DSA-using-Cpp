@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1732-find-the-highest-altitude](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0046-permutations) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
