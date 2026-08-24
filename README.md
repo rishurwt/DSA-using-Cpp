@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0202-happy-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishurwt/DSA-using-Cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishurwt/DSA-using-Cpp/tree/master/3536-maximum-product-of-two-digits) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0202-happy-number) |
 ## Trie
 |  |
 | ------- |
@@ -183,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/rishurwt/DSA-using-Cpp/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
